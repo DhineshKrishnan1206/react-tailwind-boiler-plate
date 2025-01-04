@@ -6,6 +6,10 @@
     "bin": {
         "create-react-tailwind": "./cli.js"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DhineshKrishnan1206/react-tailwind-boiler-plate"
+    },
     "scripts": {
         "start": "node cli.js"
     },
