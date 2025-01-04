@@ -1,6 +1,6 @@
 {
     "name": "react-tw-app",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A CLI tool to create React projects with Tailwind CSS excluded setup Files and reportWebVitals and a fresh App.js.",
     "type": "module",
     "bin": {
